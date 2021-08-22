@@ -1,0 +1,53 @@
+# Config For BVP Core
+# Authors DeadBush and some help provided NightDevil
+# Support us by donating at Paypal: https://paypal.me/deadbushnetric or UPI: zeffgaming72@oksbi
+
+# Use § as color code
+
+# Arenas
+spawn: "world-name"
+nodebuff: "world-name" # More Coming Soon
+
+# Spawn Coordinates
+# Ps Coordinate Names are denoted by the numbers, first alphabet of gamemode and x, y, z
+# If you don't want to use all the 5 spawn dont leave them empty put the same coordinates of avove spawn
+# Spawn World
+sx: 100
+sy: 5
+sz: 100
+
+# No Debuff
+onenx: 100
+oneny: 5
+onenz: 100
+
+twonx: 102
+twony: 5
+twonz: 102
+
+threenx: 104
+threeny: 5
+threenz: 104
+
+fournx: 106
+fourny: 5
+fournz: 106
+
+fivenx: 108
+fiveny: 5
+fivenz: 108
+
+
+# Message
+joinmsg: "§2[+]"
+quitmsg: "§4[-]"
+
+# Core Items
+itemOne: "§l§2FFA"
+itemTwo: "§l§3Settings"
+itemThree: "§l§6Stats"
+
+# UI
+ffaTitle: "§l§2FFA"
+noDebuffBtn: "§5No Debuff"
+statsTitle: "§l§6Stats"
