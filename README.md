@@ -8,6 +8,14 @@ Almost 90% of the things in the plugin are customizable
 
 Multiple Spawn upto 5 to prevent spawn camp
 
+# Dependencies
+
+Most Needed Plugins To Run This Plugin Download Them:
+
+- KDR: https://github.com/ifera-mc/KDR/releases/download/v1.0.0/KDR.phar
+
+- Kill Streaks: https://poggit.pmmp.io/r/89186/KillStreak.phar 
+
 # Note
 
 It's in beta and development phase and will keep updating
