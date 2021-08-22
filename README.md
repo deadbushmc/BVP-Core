@@ -8,7 +8,7 @@ It's in beta and development phase and will keep updating
 
 To support me make sure to visit my website https://plugins.bushstudios.tk or donate to support the project
 
-<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MJ7V43GU2H386" 
+<a href="https://www.paypal.me/deadbushnetric" 
 target="htps://paypal.me/deadbushnetric">
 <img src="https://www.paypalobjects.com/en_US/GB/i/btn/btn_donateCC_LG.gif" alt="PayPal this" 
 title="PayPal – The safer, easier way to pay online!" border="0" />
