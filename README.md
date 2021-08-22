@@ -2,6 +2,12 @@
 
 This Is A Fully Featured PvP Core Plugin For Pmmp/PocketMine-MP
 
+# Speciality
+
+Almost 90% of the things in the plugin are customizable
+
+Multiple Spawn upto 5 to prevent spawn camp
+
 # Note
 
 It's in beta and development phase and will keep updating
